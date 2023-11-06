@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boutouga Anouar
 ========================================================================================================================================
 <div align="center">
+<div align="center">
   <img  src="grid-snake.svg" alt="snake" />
 </div>
 
@@ -49,5 +50,6 @@ Feel free to explore my repositories, ask questions, or reach out for any web de
   </a>
 </div >
   <img src="ezgif.com-crop (1).gif" alt="Hello World !" width="200"/>
+</div>
 </div>
 </div>
