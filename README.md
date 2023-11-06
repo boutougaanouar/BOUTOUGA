@@ -18,7 +18,7 @@ Here's what you can expect when we collaborate:
 - **Back-end Wizardry**: Node.js  Express.js And Laravel.
 - **Data Mastership**: I wrangle data with MongoDB and MySQL.
 - **Full-Stack Expertise**: Whether it's MERN or Back-End, I've got the stack that suits your needs.
-
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
 <br/>
