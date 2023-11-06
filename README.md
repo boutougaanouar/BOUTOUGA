@@ -49,7 +49,7 @@ Feel free to explore my repositories, ask questions, or reach out for any web de
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div >
-  <img src="ezgif.com-crop (1).gif" alt="Hello World !" width="200"/>
+  <img src="ezgif.com-video-to-gif.gif" alt="Hello World !" width="200"/>
 </div>
 </div>
 </div>
