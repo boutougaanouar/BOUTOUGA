@@ -29,7 +29,7 @@ Here's what you can expect when we collaborate:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
-<br/> </div>
+<br/> 
 
 ## Let's Build Something Amazing
 Have a web project in mind? Need to set up a high-performance database? I'm here to help. Share your vision, and together we'll create remarkable digital solutions.
