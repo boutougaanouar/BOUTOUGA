@@ -11,8 +11,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br/>
 
+## My email : anouarboutouga2@gmail.com
+<br/> 
 <div align="left">
- 
+
 ## What's in My Toolkit
 Here's what you can expect when we collaborate:
 - **Front-end Magic**: Proficiency in JavaScript, PHP, React, Livewire, React Bootstrap, HTML5, and CSS3.
