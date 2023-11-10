@@ -41,6 +41,9 @@ Feel free to explore my repositories, ask questions, or reach out for any web de
 <br/>
 <br/>
 <div id="badges" align="center" >
+  <a href="mailto:anouarboutouga2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://www.linkedin.com/in/anouar-boutouga/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -49,6 +52,9 @@ Feel free to explore my repositories, ask questions, or reach out for any web de
   </a>
   <a href="https://twitter.com/AnouarBoutouga" target="blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a></a>
+    <a href="https://wa.me/+212639535186" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
 </div >
   <img src="ezgif.com-video-to-gif.gif" alt="Hello World !" width="200"/>
