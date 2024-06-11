@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## What's in My Toolkit
 Here's what you can expect when we collaborate:
 - **Front-end Magic**: Proficiency in JavaScript, PHP, React, Livewire, React Bootstrap, HTML5, and CSS3.
-- **Back-end Wizardry**: Node.js  Express.js And Laravel.
+- **Back-end Wizardry**: Laravel And Node.js  Express.js.
 - **Data Mastership**: I wrangle data with MongoDB and MySQL.
 - **Full-Stack Expertise**: Whether it's MERN or Back-End, I've got the stack that suits your needs.
 </div>
